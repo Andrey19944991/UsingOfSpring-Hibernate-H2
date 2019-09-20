@@ -1,0 +1,1 @@
+Пример использования Hibernate и Spring
